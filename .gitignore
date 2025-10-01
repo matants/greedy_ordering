@@ -1,0 +1,12 @@
+*.xml
+*.pstat
+*.pyc
+__pycache__/
+*.iml
+.idea/
+tfds/*
+features*/
+cifar/*
+experiments/
+dataloading/checkpoints/
+model_checkpoints/

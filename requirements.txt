@@ -1,0 +1,10 @@
+numpy
+jax[cuda12]
+tensorflow[and-cuda]
+flax
+optax
+tensorflow-datasets
+tqdm
+torch
+torchvision
+msgpack
