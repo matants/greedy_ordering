@@ -1,6 +1,6 @@
 # Are Greedy Task Orderings Better Than Random in Continual Linear Regression?
 
-This repository is the official implementation of classification experiments for [Are Greedy Task Orderings Better Than Random in Continual Linear Regression?](URL_HERE). 
+This repository is the official implementation of classification experiments for [Are Greedy Task Orderings Better Than Random in Continual Linear Regression?](https://arxiv.org/pdf/2510.19941). 
 
 ---
 
